@@ -1,10 +1,10 @@
 # Site settings
-title: Firstname Lastname
-email: yourEmailAddress@website.com
-url: https://yourGithubUsername.github.io/
-description: "My personal portfolio"
-skills: "Short tagline about yourself.."
-meta_author: Lastname Firstname
+title: Ruby Mae Segal
+email: rubymaesegal@gmail.com
+url: https://bruxelles96.github.io/
+description: "Adventures and Musings from Ruby Mae Segal"
+skills: "Traveler - Digital Nomad - Actress"
+meta_author: Segal Ruby
 
 # Description
 about1: "Here's your about section. Post a paragraph or two about yourself to tell people what you do, and what you're interested in."
@@ -17,18 +17,18 @@ about2: "And here's where you can write more about that. For now, the about sect
 #primary
 #Background behind profile pic, and about section
 #Choose this color somewhat conservatively. I recommend a darker color. Default: 1F2F42
-  
+
 #secondary
 #Header, Footer, and large text labels
 #This is your accent color, this can pop a little bit. Default: 1F67B4
-  
+
 #secondary-dark
 #Section marker and copyright tag
 #This color should be conservative, but compliment the accent color. Default: 233140
-  
+
 #background
 #Background behind portfolio and contact forms. Default: 111111
-  
+
 color:
   primary: 1F2F42
   secondary: 1F67B4
@@ -38,24 +38,23 @@ color:
 
 # Footer settings
 footer:
-  copyright: User Name
-  location: Your location. Be as vague or specific as you like
+  copyright: Ruby Segal
+  location: Minneapolis, Minnesota
   social: Around the Web
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: facebook
-    url: http://www.facebook.com/myfacebookpath
-  - title: github
-    url: http://github.com/githubusername
+    url: http://www.facebook.com/ruby.segal.3
   - title: linkedin
     url: http://www.linkedin.com/in/linkedinusername
-
+  - title: instagram
+    url: http://www.instagram.com/restlessrubymae/
 
 # Relative Path Links
 profile_picture: img/profile.png
-baseurl: /instafolio
+#baseurl: /instafolio
 
 credits: "Instafolio is developed by Nick Nothom, and utilizes Github Pages, Jekyll, and the Freelancer theme."
 
