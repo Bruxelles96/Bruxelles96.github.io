@@ -2,11 +2,11 @@
 layout: default
 title: Costume
 modal-id: 3
-date: 2014-07-15
+date: 2017-10-30
 img: Costume900600.jpg
-alt: SnowFlake
-project-date: November 2017
-category: Art
+alt: Costume Photo
+project-date: October 2017
+category: Clothing
 description: >
 
 
