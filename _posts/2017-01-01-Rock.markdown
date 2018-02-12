@@ -1,0 +1,14 @@
+---
+layout: default
+title: Rock
+modal-id: 1
+date: 2017-08-15
+img: Rock900600.jpg
+alt: ROCK
+project-date: August 2017
+category: Painting
+description: >
+
+  I made this souvenir rock paperweight for a special vacation in northern Minnesota. I used a rock I found on the shore of lake Superior, and used acrylic paint to do the landscape on it. After I finished the first one everyone loved it so much that I got requests to make them for others! 
+
+---
