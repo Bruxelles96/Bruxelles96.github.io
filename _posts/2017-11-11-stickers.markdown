@@ -7,6 +7,15 @@ img: Pumpkin900600.png
 alt: ROCK
 project-date: November 2017
 category: Art
-description: Here's some meaningless example text to describe what this post is about! Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+description: >
+
+
+  I love tassel jewelry! But sometimes buying new fashion jewelry can get expensive, and making tassels is super easy and cheap! I started with a pair of cheap statement earrings I didn’t love, but would work as a really cute base. 
+  
+  I made the tassels from scratch from silk thread and after attaching them I decided to add two smaller ones on the sides. 
+  
+  I loved how they turned out so I decided to try my hand at improving another pair of blah earrings I owned with tassels. After making the two pairs, I feel like I learned a lot about accessory design. I love the symmetry, balance and geometric design in the first pair, I think those elements are really important when it comes to accessories. 
+  
+  
 
 ---
