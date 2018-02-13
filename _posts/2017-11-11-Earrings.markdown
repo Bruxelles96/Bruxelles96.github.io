@@ -3,7 +3,7 @@ layout: default
 title: Sticker
 modal-id: 2
 date: 2014-07-15
-img: Pumpkin900600.png
+img: Earrings900600.jpg
 alt: ROCK
 project-date: November 2017
 category: Art
