@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Rock
+title: Painted Rock
 modal-id: 1
 date: 2017-08-15
 img: Rock900600.jpg
-alt: ROCK
+alt: Rock
 project-date: August 2017
 category: Painting
 description: >
