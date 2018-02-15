@@ -30,8 +30,8 @@ about2: "I love design. Every time I walk into a store I become wide-eyed, study
 #Background behind portfolio and contact forms. Default: 111111
 
 color:
-  primary: 1F2F42
-  secondary: 1F67B4
+  primary: 9DD2D8
+  secondary: 511E23
   secondary-dark: 233140
   background: 111111
   text: ffffff
