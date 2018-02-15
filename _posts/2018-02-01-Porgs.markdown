@@ -3,7 +3,7 @@ layout: default
 title: Star Wars Porgs
 modal-id: 5
 date: 2018-02-01
-img: Porgs900600.jpg
+img: Porgs900600.png
 alt: Star Wars Porgs
 project-date: February 2018
 category: Figurines
