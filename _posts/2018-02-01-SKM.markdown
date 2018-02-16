@@ -1,0 +1,14 @@
+---
+layout: default
+title: She Kills Monsters
+modal-id: 8
+date: 2017-12-03
+img: skm900600.png
+alt: Theatre stage shot
+project-date: December 2017
+category: Acting
+description: >
+
+
+
+---
