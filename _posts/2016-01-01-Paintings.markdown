@@ -10,10 +10,10 @@ category: Painting
 description: >
 
 
+   Although I've always loved art, I didn't start avidly painting until spring 2016. This first painting pictured above, was my first landscape I ever did in 2016, painted from a photo I took at the Minnesota Landscape Arboretum. 
+
+
   <img src="https://i.imgur.com/NyWJb9F.png" alt="Painting" style="width: 80%;"/>
-  
-  
-    Although I've always loved art, I didn't start avidly painting until spring 2016. This first painting pictured above, was my first landscape I ever did in 2016, painted from a photo I took at the Minnesota Landscape Arboretum. 
     
     
   <img src="https://i.imgur.com/zLWn8te.png" alt="Painting" style="width: 80%;"/>
