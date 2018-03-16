@@ -10,13 +10,13 @@ category: graphic design
 description: >
 
 
-  <img src="https://i.imgur.com/yZtCzd5.png" alt="design" style="width: 90%;"/>
+  <img src="https://i.imgur.com/yZtCzd5.png" alt="design" style="width: 100%;"/>
   
   
-  <img src="https://i.imgur.com/MzHYlby.png" alt="design" style="width: 90%;"/>
+  <img src="https://i.imgur.com/MzHYlby.png" alt="design" style="width: 100%;"/>
   
   
-  <img src="https://i.imgur.com/Ft7R7ER.png" alt="design" style="width: 90%;"/>
+  <img src="https://i.imgur.com/Ft7R7ER.png" alt="design" style="width: 100%;"/>
 
 
 ---
