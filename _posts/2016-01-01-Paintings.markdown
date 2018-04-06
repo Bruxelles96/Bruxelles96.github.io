@@ -3,7 +3,7 @@ layout: default
 title: Acrylic Paintings
 modal-id: 4
 date: 2016-01-01
-img: Painting900600.jpg
+img: paintingtitle.png
 alt: Painting
 project-date: January 2016
 category: Painting
