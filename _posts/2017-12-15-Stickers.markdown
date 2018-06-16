@@ -5,7 +5,7 @@ modal-id: 6
 date: 2017-08-15
 img: stickers600900.png
 alt: Stickers
-project-date: August 2017
+project-date: June 2018
 category: Graphic Design
 description: >
 
@@ -14,6 +14,9 @@ description: >
   
   
   <img src="https://i.imgur.com/eVcCOtO.png" alt="Painting" style="width: 80%;"/>
+
+
+<img src="https://i.imgur.com/pUGTaNP.png" alt="Painting" style="width: 80%;"/>
 
 
 
