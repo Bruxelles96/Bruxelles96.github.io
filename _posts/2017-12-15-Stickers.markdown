@@ -3,7 +3,7 @@ layout: default
 title: Diabetic Monitor Stickers
 modal-id: 6
 date: 2017-08-15
-img: stickers600900.png
+img: expressionmed600x900.jpg
 alt: Stickers
 project-date: June 2018
 category: Graphic Design
