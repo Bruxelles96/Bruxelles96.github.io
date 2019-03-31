@@ -23,4 +23,6 @@ description: >
   <img src="https://i.imgur.com/gU9I5T7.png" alt="Painting" style="width: 80%;"/>
   
   
+  <img src="https://i.imgur.com/58XfQ8s.png" alt="Painting" style="width: 80%;"/>
+  
 ---
