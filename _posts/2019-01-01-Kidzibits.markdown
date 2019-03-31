@@ -10,7 +10,7 @@ category: Graphic Design
 description: >
 
 
-  Kidzibits is a Minneapolis company specializing in exhibit design, development, and fabrication. Their educational, interactive and kid-friendly work can be seen in children's museums, nature centers, zoos and science centers nation wide. During my time at Kidzibits, I assisted in the graphics development of new exhibits for the Minnesota Children's Museum, and the Discovery Depot Children's Museum in Galesburg, IL. 
+  Kidzibits is a Minneapolis company specializing in exhibit design, development, and fabrication. Their educational, interactive and kid-friendly work can be seen in children's museums, nature centers, zoos and science centers nation wide. During my time at Kidzibits, I assisted in graphics development of new exhibits for the Minnesota Children's Museum, and the Discovery Depot Children's Museum in Galesburg, IL. 
   
   <br>
   <br>
@@ -29,9 +29,9 @@ description: >
   <br>
   
   
-   I also was tasked with preparing graphics for printing and exhibit integration for two new themed exhibits for the Minnesota Children's Museum, in partnership with PBS Kids "Wild Kratts" TV program.
-
- 
+   I also was tasked with preparing graphics for printing and exhibit integration for two new themed traveling exhibits under a licensing agreement with PBS Kids "Wild Kratts" TV program, for the Minnesota Children's Museum.
+   
+   
   <br>
   
   
