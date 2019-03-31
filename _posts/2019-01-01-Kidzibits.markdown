@@ -10,17 +10,14 @@ category: Graphic Design
 description: >
 
 
-  I created these designs for ExpressionMed, who produces decorative medical tapes for Dexcom continous glucose monitoring systems for diabetes management. ExpressionMed's end users are mostly kids, who's parents purchase the decorative tapes for them as to get them excited about wearing a glucose monitor instead of it being scary. My designs with bright colors and playful content are made to appeal to kids and their parents and bring a fun punch of personality to medical devices. (Created in Adobe Illustrator)
+  Kidzibits is a Minneapolis company specializing in exhibit design, development, and fabrication. Their educational, interactive and kid-friendly work can be seen in children's museums, nature centers, zoos and science centers nation wide. During my time at Kidzibits, I assisted in the development of new exhibits for the Minnesota Children's Museum, and the Discovery Depot Children's Museum in Galesburg, IL. 
   
   
   <img src="https://i.imgur.com/xbEqlvL.jpg" alt="Painting" style="width: 50%;"/>
   <img src="https://i.imgur.com/Ayk5owI.jpg" alt="Painting" style="width: 50%;"/>
 
 
-  <img src="https://i.imgur.com/pUGTaNP.png" alt="Painting" style="width: 80%;"/>
-
-
-  <img src="https://i.imgur.com/gU9I5T7.png" alt="Painting" style="width: 80%;"/>
+ 
   
   
 ---
