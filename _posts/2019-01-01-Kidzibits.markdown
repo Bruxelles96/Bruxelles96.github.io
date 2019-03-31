@@ -12,9 +12,13 @@ description: >
 
   Kidzibits is a Minneapolis company specializing in exhibit design, development, and fabrication. Their educational, interactive and kid-friendly work can be seen in children's museums, nature centers, zoos and science centers nation wide. During my time at Kidzibits, I assisted in the development of new exhibits for the Minnesota Children's Museum, and the Discovery Depot Children's Museum in Galesburg, IL. 
   
-  
-  <img src="https://i.imgur.com/xbEqlvL.jpg" alt="Painting" style="width: 50%;"/>
-  <img src="https://i.imgur.com/Ayk5owI.jpg" alt="Painting" style="width: 50%;"/>
+  I aided in formatting and printing prep for graphics, including the creating of a pattern covered play table with my own original pattern design.
+
+
+  <img src="https://i.imgur.com/X43rBic.png" alt="Painting" style="width: 100%;"/>
+  <img src="https://i.imgur.com/Ayk5owI.jpg" alt="Painting" style="width: 100%;"/>
+  <img src="https://i.imgur.com/xbEqlvL.jpg" alt="Painting" style="width: 100%;"/>
+
 
 
  
