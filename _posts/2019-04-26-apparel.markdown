@@ -10,15 +10,12 @@ category: Textile Design
 description: >
 
 
- 
-  
   
   <br>
 
 
   <img src="https://i.imgur.com/X43rBic.png" alt="Painting" style="width: 100%;"/>
   <img src="https://i.imgur.com/Ayk5owI.jpg" alt="Painting" style="width: 100%;"/>
-  <img src="https://i.imgur.com/xbEqlvL.jpg" alt="Painting" style="width: 100%;"/>
 
   
   <br>
