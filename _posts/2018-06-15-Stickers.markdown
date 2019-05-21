@@ -28,8 +28,8 @@ description: >
   
   <img src="https://i.imgur.com/58XfQ8s.png" alt="Painting" style="width: 70%;"/>
   
-  <img src="https://i.imgur.com/mpKHFcj.png" alt="Painting" style="width: 70%;"/>
+  <img src="https://i.imgur.com/mpKHFcj.png" alt="Painting" style="width: 80%;"/>
   
-  <img src="https://i.imgur.com/C54CazH.png" alt="Painting" style="width: 70%;"/>
+  <img src="https://i.imgur.com/C54CazH.png" alt="Painting" style="width: 80%;"/>
   
 ---
