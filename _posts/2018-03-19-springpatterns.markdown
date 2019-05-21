@@ -28,10 +28,7 @@ description: >
   <img src="https://i.imgur.com/vV4goSl.png" alt="design" style="width: 100%;"/>
   
     
-  <img src="https://i.imgur.com/FESBZZW.jpg" alt="design" style="width: 100%;"/>
-  
-  
-  <img src="https://i.imgur.com/FmgMsFa.jpg" alt="design" style="width: 100%;"/>
+
 
   
   
