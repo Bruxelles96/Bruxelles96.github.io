@@ -3,7 +3,7 @@ layout: default
 title: Diabetic Monitor Stickers
 modal-id: 6
 date: 2018-06-15
-img: stickerweb.png
+img: stickerweb.jpg
 alt: Stickers
 project-date: June 2018
 category: Graphic Design
@@ -11,11 +11,11 @@ description: >
 
 
   I created these designs for ExpressionMed, who produces decorative medical tapes for Dexcom continous glucose monitoring systems for diabetes management. ExpressionMed's end users are mostly kids, who's parents purchase the decorative tapes for them as to get them excited about wearing a glucose monitor instead of it being scary. My designs with bright colors and playful content are made to appeal to kids and their parents and bring a fun punch of personality to medical devices. (Created in Adobe Illustrator)
-  
-  
+
+
   <br>
-  
-  
+
+
   <img src="https://i.imgur.com/eVcCOtO.png" alt="Painting" style="width: 50%;"/>
   <img src="https://i.imgur.com/S4buv5x.png" alt="Painting" style="width: 30%;"/>
 
@@ -24,12 +24,12 @@ description: >
 
 
   <img src="https://i.imgur.com/gU9I5T7.png" alt="Painting" style="width: 80%;"/>
-  
-  
+
+
   <img src="https://i.imgur.com/58XfQ8s.png" alt="Painting" style="width: 70%;"/>
-  
+
   <img src="https://i.imgur.com/mpKHFcj.png" alt="Painting" style="width: 80%;"/>
-  
+
   <img src="https://i.imgur.com/C54CazH.png" alt="Painting" style="width: 80%;"/>
-  
+
 ---

@@ -3,19 +3,19 @@ layout: default
 title: Star Wars Porgs
 modal-id: 5
 date: 2018-02-01
-img: Porgs900600.png
+img: Porgs900600.jpg
 alt: Star Wars Porgs
 project-date: February 2018
 category: Figurines
 description: >
 
 
-  These Porg figurines were 3D Printed from biodegradable corn based PLA plastic, and then hand painted. 
+  These Porg figurines were 3D Printed from biodegradable corn based PLA plastic, and then hand painted.
 
 
   <img src="https://i.imgur.com/1L1OHjW.jpg" alt="Painting" style="width: 80%;"/>
-  
-  
+
+
   <img src="https://i.imgur.com/oHFwlX9.jpg" alt="Painting" style="width: 80%;"/>
 
 

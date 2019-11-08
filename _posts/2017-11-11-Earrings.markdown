@@ -3,31 +3,31 @@ layout: default
 title: Handmade Tassel Earrings
 modal-id: 2
 date: 2017-11-15
-img: HandMadeEarrings900600.png
+img: HandMadeEarrings900600.jpg
 alt: ROCK
 project-date: November 2017
 category: Jewelry
 description: >
 
 
-  I love tassel jewelry! But sometimes buying new fashion jewelry can get expensive, and making tassels is super easy and cheap! I started with a pair of cheap statement earrings I didn’t love, but would work as a really cute base. 
-  
-  
+  I love tassel jewelry! But sometimes buying new fashion jewelry can get expensive, and making tassels is super easy and cheap! I started with a pair of cheap statement earrings I didn’t love, but would work as a really cute base.
+
+
   <img src="https://i.imgur.com/5LnX4m2.jpg" alt="Earrings" style="width: 40%;"/>
-  
-  
-  I made the tassels from scratch from silk thread and after attaching them I decided to add two smaller ones on the sides. 
-  
-  
+
+
+  I made the tassels from scratch from silk thread and after attaching them I decided to add two smaller ones on the sides.
+
+
   <img src="https://i.imgur.com/fCVjCsp.jpg" alt="Earrings" style="width: 40%;"/>
-  
+
   <img src="https://i.imgur.com/NznL79c.jpg" alt="Earrings" style="width: 40%;"/>
-  
-  
-  
-  I loved how they turned out so I decided to try my hand at improving another pair of blah earrings I owned with tassels. After making the two pairs, I feel like I learned a lot about accessory design. I love the symmetry, balance and geometric design in the first pair, I think those elements are really important when it comes to accessories. 
-  
-  
+
+
+
+  I loved how they turned out so I decided to try my hand at improving another pair of blah earrings I owned with tassels. After making the two pairs, I feel like I learned a lot about accessory design. I love the symmetry, balance and geometric design in the first pair, I think those elements are really important when it comes to accessories.
+
+
   <img src="https://i.imgur.com/gkoEMNU.png" alt="Earrings" style="width: 40%;"/>
 
 ---

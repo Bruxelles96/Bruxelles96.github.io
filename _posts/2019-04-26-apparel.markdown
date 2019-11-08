@@ -3,22 +3,22 @@ layout: default
 title: Custom print apparel design
 modal-id: 15
 date: 2019-04-26
-img: apparel600900.png
+img: apparel600900.jpg
 alt: Project
 project-date: April 2019
 category: Textile Design
 description: >
 
 
-  
+
   <br>
 
 
   <img src="https://i.imgur.com/0LGaupY.png" alt="Painting" style="width: 49%;"/>
   <img src="https://i.imgur.com/uvxjfQG.jpg" alt="Painting" style="width: 49%;"/>
 
-  
+
   <br>
-  
-  
+
+
 ---
