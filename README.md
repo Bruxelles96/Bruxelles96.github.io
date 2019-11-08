@@ -1,7 +1,5 @@
 # Instafolio
 
-[Click here to regenerate site cache](https://youtu.be/9hMp65SzyTU?t=105)
-
 ## Introduction
 
 ### Setting up your Basic Profile
