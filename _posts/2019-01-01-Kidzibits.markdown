@@ -21,7 +21,7 @@ description: >
   <br>
 
 
-  <img src="https://i.imgur.com/X43rBic.png" alt="Painting" style="width: 100%;"/>
+  <img src="https://i.imgur.com/X43rBich.png" alt="Painting" style="width: 100%;"/>
   <img src="https://i.imgur.com/Ayk5owI.jpg" alt="Painting" style="width: 100%;"/>
   <img src="https://i.imgur.com/xbEqlvL.jpg" alt="Painting" style="width: 100%;"/>
 
@@ -35,7 +35,7 @@ description: >
   <br>
   
   
-  <img src="https://i.imgur.com/Q9AGfOS.png" alt="Painting" style="width: 100%;"/>
+  <img src="https://i.imgur.com/Q9AGfOSh.png" alt="Painting" style="width: 100%;"/>
   <img src="https://i.imgur.com/4ZV8jVK.jpg" alt="Painting" style="width: 100%;"/>
   
   

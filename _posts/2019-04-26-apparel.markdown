@@ -14,7 +14,7 @@ description: >
   <br>
 
 
-  <img src="https://i.imgur.com/0LGaupY.png" alt="Painting" style="width: 49%;"/>
+  <img src="https://i.imgur.com/0LGaupYh.png" alt="Painting" style="width: 49%;"/>
   <img src="https://i.imgur.com/uvxjfQG.jpg" alt="Painting" style="width: 49%;"/>
 
 

@@ -10,22 +10,22 @@ category: graphic design
 description: >
 
 
-  <img src="https://i.imgur.com/yZtCzd5.png" alt="design" style="width: 100%;"/>
+  <img src="https://i.imgur.com/yZtCzd5h.png" alt="design" style="width: 100%;"/>
   
   
-  <img src="https://i.imgur.com/MzHYlby.png" alt="design" style="width: 100%;"/>
+  <img src="https://i.imgur.com/MzHYlbyh.png" alt="design" style="width: 100%;"/>
 
 
-  <img src="https://i.imgur.com/klvjc2F.png" alt="design" style="width: 100%;"/>
+  <img src="https://i.imgur.com/klvjc2Fh.png" alt="design" style="width: 100%;"/>
   
   
-  <img src="https://i.imgur.com/IFPgyli.png" alt="design" style="width: 100%;"/>
+  <img src="https://i.imgur.com/IFPgylih.png" alt="design" style="width: 100%;"/>
   
   
-  <img src="https://i.imgur.com/A6NAKgS.png" alt="design" style="width: 100%;"/>
+  <img src="https://i.imgur.com/A6NAKgSh.png" alt="design" style="width: 100%;"/>
   
   
-  <img src="https://i.imgur.com/vV4goSl.png" alt="design" style="width: 100%;"/>
+  <img src="https://i.imgur.com/vV4goSlh.png" alt="design" style="width: 100%;"/>
   
     
 
