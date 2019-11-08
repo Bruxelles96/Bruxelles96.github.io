@@ -13,10 +13,10 @@ description: >
   These Porg figurines were 3D Printed from biodegradable corn based PLA plastic, and then hand painted.
 
 
-  <img src="https://i.imgur.com/1L1OHjW.jpg" alt="Painting" style="width: 80%;"/>
+  <img src="https://i.imgur.com/1L1OHjWh.jpg" alt="Painting" style="width: 80%;"/>
 
 
-  <img src="https://i.imgur.com/oHFwlX9.jpg" alt="Painting" style="width: 80%;"/>
+  <img src="https://i.imgur.com/oHFwlX9h.jpg" alt="Painting" style="width: 80%;"/>
 
 
 ---

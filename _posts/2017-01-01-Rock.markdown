@@ -12,6 +12,6 @@ description: >
   I made this souvenir rock paperweight for a special vacation in northern Minnesota. I used a rock I found on the shore of lake Superior, and used acrylic paint to do the landscape on it. After I finished the first one everyone loved it so much that I got requests to make them for others!
 
 
-  <img src="https://i.imgur.com/3lytGaH.jpg" alt="Painting" style="width: 80%;"/>
+  <img src="https://i.imgur.com/3lytGaHh.jpg" alt="Painting" style="width: 80%;"/>
 
 ---

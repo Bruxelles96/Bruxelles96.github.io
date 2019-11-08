@@ -22,10 +22,10 @@ description: >
   I enjoy using acrylic paint as a medium to make art prints for home decor as well as painting more traditional abstract, landscape, portrait, and still-life works for hobby.
 
 
-  <img src="https://i.imgur.com/oMG1e8w.jpg" alt="Painting" style="width: 80%;"/>
+  <img src="https://i.imgur.com/oMG1e8wh.jpg" alt="Painting" style="width: 80%;"/>
 
 
-  <img src="https://i.imgur.com/DJscm4g.jpg" alt="Painting" style="width: 80%;"/>
+  <img src="https://i.imgur.com/DJscm4gh.jpg" alt="Painting" style="width: 80%;"/>
 
 
 
