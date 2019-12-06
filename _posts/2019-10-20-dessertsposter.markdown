@@ -16,9 +16,8 @@ description: >
 
   <img src="https://i.imgur.com/djSLqVp.jpg" alt="Poster" style="width: 100%;"/>
   
-
-
   <br>
 
+<p> 16x20 Digital print educational poster design for middle school/ high school language classrooms. </p>
 
 ---
