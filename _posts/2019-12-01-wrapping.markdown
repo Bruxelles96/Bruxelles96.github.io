@@ -3,7 +3,7 @@ layout: default
 title: French Poster
 modal-id: 17
 date: 2019-12-01
-img: desserts69.png
+img: wrapping.png
 alt: Project
 project-date: December 2019
 category: Wrapping Paper Design
@@ -19,3 +19,8 @@ description: >
 
 
   <br>
+
+
+
+
+---
