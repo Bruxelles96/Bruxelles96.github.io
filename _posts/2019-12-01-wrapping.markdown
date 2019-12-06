@@ -1,0 +1,21 @@
+---
+layout: default
+title: French Poster
+modal-id: 16
+date: 2019-12-01
+img: wrapping.png
+alt: Project
+project-date: December 2019
+category: Wrapping Paper Design
+description: >
+
+
+
+  <br>
+
+
+  <img src="https://i.imgur.com/yXF0Ovf.png" alt="wrapping paper" style="width: 100%;"/>
+  <img src="https://i.imgur.com/dUYY0w4.jpg" alt="wrapping paper" style="width: 100%;"/>
+
+
+  <br>
