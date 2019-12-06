@@ -18,6 +18,6 @@ description: >
   
   <br>
 
-<p> 16x20 Digital print educational poster design for middle school/ high school language classrooms. </p>
+
 
 ---
