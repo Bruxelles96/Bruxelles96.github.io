@@ -1,6 +1,6 @@
 ---
 layout: default
-title: French Poster
+title: Winter Wrapping paper
 modal-id: 17
 date: 2019-12-01
 img: wrapping.png
