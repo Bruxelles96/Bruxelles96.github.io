@@ -14,7 +14,7 @@ description: >
   <br>
 
 
-  <img src="https://i.imgur.com/djSLqVp.jpg" alt="Poster" style="width: 80%;"/>
+  <img src="https://i.imgur.com/djSLqVp.jpg" alt="Poster" style="width: 85%;"/>
   
   <br>
 
