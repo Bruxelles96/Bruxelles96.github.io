@@ -24,7 +24,7 @@ a.active {
 }
 
 h1,
-h2{ font-color: 9DC4C8;}
+h2,
 h3,
 h4,
 h5,
@@ -34,7 +34,7 @@ h6 {
     font-weight: 700;
 }
 
-.blue{ text-color: 9DC4C8;}
+.blue{ color: #9DC4C8;}
 
 
 hr.star-light,
