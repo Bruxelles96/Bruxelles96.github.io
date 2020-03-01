@@ -3,7 +3,7 @@ layout: default
 title: Kids Clothing Design
 modal-id: 17
 date: 2020-03-01
-img: wrapping.png
+img: spectrum_600900.png
 alt: Project
 project-date: February 2020
 category: Apparel Design
