@@ -33,7 +33,7 @@ color:
   primary:  9DC4C8
   secondary: 511E23
   secondary-dark: 9DC4C8
-  background: 9DC4C8
+  background: ffffff
   text: ffffff
 
 # Footer settings
