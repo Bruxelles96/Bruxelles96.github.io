@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Low-Poly Portrait
-modal-id: 10
+modal-id: 5
 date: 2018-03-14
 img: post_post.jpg
 alt: Low-Poly Portrait
