@@ -1,31 +1,29 @@
 ---
 layout: default
-title: Acrylic Paintings
+title: Paintings
 modal-id: 4
 date: 2016-01-01
-img: paintingtitle.jpg
+img: painting600900.png
 alt: Painting
 project-date: January 2016
 category: Painting
 description: >
 
 
-  Although I've always loved art, I didn't start avidly painting until spring 2016. This first painting pictured above, was my first landscape I ever did in 2016, painted from a photo I took at the Minnesota Landscape Arboretum.
+  
 
 
-  <img src="https://i.imgur.com/NyWJb9Fh.png" alt="Painting" style="width: 80%;"/>
+
+  <img src="https://i.imgur.com/zLWn8teh.png" alt="Painting" style="width: 100%;"/>
+  <img src="https://i.imgur.com/9fHnAYO.jpg" alt="Painting" style="width: 100%;"/>
+  <img src="https://i.imgur.com/OGl8FX6.jpg" alt="Painting" style="width: 100%;"/>
+  <img src="https://i.imgur.com/RmI9UXV.jpg" alt="Painting" style="width: 100%;"/>
+  <img src="https://i.imgur.com/vD310kZ.jpg" alt="Painting" style="width: 100%;"/>
+
+  
 
 
-  <img src="https://i.imgur.com/zLWn8teh.png" alt="Painting" style="width: 80%;"/>
-
-
-  I enjoy using acrylic paint as a medium to make art prints for home decor as well as painting more traditional abstract, landscape, portrait, and still-life works for hobby.
-
-
-  <img src="https://i.imgur.com/oMG1e8wh.jpg" alt="Painting" style="width: 80%;"/>
-
-
-  <img src="https://i.imgur.com/DJscm4gh.jpg" alt="Painting" style="width: 80%;"/>
+  <img src="https://i.imgur.com/DJscm4gh.jpg" alt="Painting" style="width: 100%;"/>
 
 
 
