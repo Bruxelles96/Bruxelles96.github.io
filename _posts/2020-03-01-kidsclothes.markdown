@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Kids Clothing Design
-modal-id: 17
+modal-id: 19
 date: 2020-03-01
 img: spectrum_600900.png
 alt: Project
