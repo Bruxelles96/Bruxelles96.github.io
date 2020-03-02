@@ -14,7 +14,6 @@ description: >
   <br>
 
 
-  <img src="https://i.imgur.com/I6CXwzL.jpg" alt="illustration" style="width: 100%;"/>
   <img src="https://i.imgur.com/85Kqlgs.png" alt="illustration" style="width: 100%;"/>
   <img src="https://i.imgur.com/dzYFBtk.png" alt="illustration" style="width: 100%;"/>
   <img src="https://i.imgur.com/YWW8lUL.png" alt="illustration" style="width: 100%;"/>
