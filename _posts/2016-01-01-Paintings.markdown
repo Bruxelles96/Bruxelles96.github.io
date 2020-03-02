@@ -15,11 +15,10 @@ description: >
 
 
   <img src="https://i.imgur.com/zLWn8teh.png" alt="Painting" style="width: 100%;"/>
-  <img src="https://i.imgur.com/9fHnAYO.jpg" alt="Painting" style="width: 100%;"/>
   <img src="https://i.imgur.com/OGl8FX6.jpg" alt="Painting" style="width: 100%;"/>
   <img src="https://i.imgur.com/RmI9UXV.jpg" alt="Painting" style="width: 100%;"/>
   <img src="https://i.imgur.com/vD310kZ.jpg" alt="Painting" style="width: 100%;"/>
-
+  <img src="https://i.imgur.com/BFcmZ5q.png" alt="Painting" style="width: 100%;"/>
   
 
 
