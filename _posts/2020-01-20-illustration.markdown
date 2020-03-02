@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Illustration
+title: Vector Illustration
 modal-id: 12
 date: 2020-01-20
 img: illo2600900.png
