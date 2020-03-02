@@ -58,7 +58,7 @@ hr.star-secondary {
 }
 
 
-hr.star-light:after,
+/* hr.star-light:after,
 hr.star-primary:after {
     content: "\f005";
     display: inline-block;
@@ -67,25 +67,26 @@ hr.star-primary:after {
     padding: 0 .25em;
     font-family: 'Oswald', sans-serif;
     font-size: 2em;
-}
+} */
 
 hr.star-light {
     border-color: #{{ site.color.text }};
 }
 
-hr.star-light:after {
+/* hr.star-light:after {
     color: #fff;
     background-color: #{{ site.color.primary }};
-}
+} */
 
 hr.star-primary {
     border-color: #{{ site.color.primary }};
 }
 
-hr.star-primary:after {
+/* hr.star-primary:after {
     color: #{{ site.color.secondary }};
     background-color: #{{ site.color.background }};
 }
+ */
 
 hr.star-secondary {
     border-color: #{{ site.color.secondary }};
