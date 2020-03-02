@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Patterns
-modal-id: 12
+modal-id: 8
 date: 2018-03-27
 img: morespringswatches.jpg
 alt: Pattern Samples
