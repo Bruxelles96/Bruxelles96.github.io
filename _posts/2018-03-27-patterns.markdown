@@ -9,6 +9,11 @@ project-date: March 2018
 category: pattern design
 description: >
 
+  <img src="https://i.imgur.com/tfAgzNL.png" alt="pattern" style="width: 100%;"/>
+  
+  <img src="https://i.imgur.com/MwhyMGr.png" alt="pattern" style="width: 100%;"/>
+
+  <img src="https://i.imgur.com/hYYEPgn.png" alt="pattern" style="width: 100%;"/>
 
   <img src="https://i.imgur.com/FESBZZWh.jpg" alt="pattern" style="width: 100%;"/>
 
