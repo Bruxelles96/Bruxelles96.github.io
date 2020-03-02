@@ -9,7 +9,7 @@ project-date: March 2018
 category: pattern design
 description: >
 
-  Patterns currently available for license.
+  
 
   <img src="https://i.imgur.com/tfAgzNL.png" alt="pattern" style="width: 100%;"/>
   
