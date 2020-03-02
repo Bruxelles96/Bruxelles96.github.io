@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Paintings
-modal-id: 4
+modal-id: 1
 date: 2016-01-01
 img: painting600900.png
 alt: Painting
