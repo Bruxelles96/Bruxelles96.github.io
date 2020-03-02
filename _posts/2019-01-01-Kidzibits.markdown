@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Kidzibits Inc Design Internship
-modal-id: 14
+modal-id: 7
 date: 2019-01-01
 img: KZ900600.jpg
 alt: Internship
