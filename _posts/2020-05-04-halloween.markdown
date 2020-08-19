@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Christmas Style Guide
+title: Halloween Decor Product Design
 modal-id: 16
 date: 2020-05-04
 img: coven600900.jpg
