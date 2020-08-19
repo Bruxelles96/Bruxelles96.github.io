@@ -14,10 +14,11 @@ description: >
   <br>
 
 
-  <img src="https://i.imgur.com/hgjng6W.png" alt="trend research" style="width: 100%;"/>
-  <img src="https://i.imgur.com/0cYMHQ8.png" alt="icons" style="width: 100%;"/>
-  <img src="https://i.imgur.com/HDoaOuz.png" alt="icons" style="width: 100%;"/>
-
+  <img src="https://i.imgur.com/SQ8NSBh.jpg" alt="trend research" style="width: 100%;"/>
+  <img src="https://i.imgur.com/HxQAl3B.jpg" alt="overview" style="width: 100%;"/>
+  <img src="https://i.imgur.com/Z9zPrVE.jpg" alt="planogram" style="width: 100%;"/>
+  <img src="https://i.imgur.com/ntyQ7xy.jpg" alt="spec page" style="width: 100%;"/>
+  <img src="https://i.imgur.com/pPEyuEK.png" alt="spec page" style="width: 100%;"/>
   <br>
 
 
