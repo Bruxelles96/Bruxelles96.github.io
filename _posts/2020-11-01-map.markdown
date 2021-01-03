@@ -14,11 +14,8 @@ description: >
   <br>
 
 
-  <img src="https://i.imgur.com/IlA3QHA.jpg" alt="trend research" style="width: 100%;"/>
-  <img src="https://i.imgur.com/HxQAl3B.jpg" alt="overview" style="width: 100%;"/>
-  <img src="https://i.imgur.com/Z9zPrVE.jpg" alt="planogram" style="width: 100%;"/>
-  <img src="https://i.imgur.com/ntyQ7xy.jpg" alt="spec page" style="width: 100%;"/>
-  <img src="https://i.imgur.com/pPEyuEK.png" alt="spec page" style="width: 100%;"/>
+  <img src="https://i.imgur.com/IlA3QHA.jpg" alt="map" style="width: 100%;"/>
+ 
   <br>
 
 
