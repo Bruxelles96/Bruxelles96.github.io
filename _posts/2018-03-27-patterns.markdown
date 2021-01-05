@@ -13,7 +13,7 @@ description: >
 
   <img src="https://i.imgur.com/tfAgzNL.png" alt="pattern" style="width: 100%;"/>
   
-  <img src="https://i.imgur.com/MwhyMGr.png" alt="pattern" style="width: 100%;"/>
+  <img src="https://i.imgur.com/U40QlX8.png" alt="pattern" style="width: 100%;"/>
 
   <img src="https://i.imgur.com/OMghh8i.jpg" alt="pattern" style="width: 100%;"/>
 
