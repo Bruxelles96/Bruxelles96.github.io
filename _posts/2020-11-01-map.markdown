@@ -1,23 +1,23 @@
 ---
-// layout: default
-title: Illustrated Map
-modal-id: 17
-date: 2020-11-01
-img: 600900map.png
-alt: Project
-project-date: November 2020
-category: Illustration
-description: >
+# layout: default
+# title: Illustrated Map
+# modal-id: 17
+# date: 2020-11-01
+# img: 600900map.png
+# alt: Project
+# project-date: November 2020
+# category: Illustration
+# description: >
 
 
 
   <br>
 
 
-  <img src="https://i.imgur.com/IlA3QHA.jpg" alt="map" style="width: 100%;"/>
+ #  <img src="https://i.imgur.com/IlA3QHA.jpg" alt="map" style="width: 100%;"/>
  
   <br>
 
 
-//
+
 ---
